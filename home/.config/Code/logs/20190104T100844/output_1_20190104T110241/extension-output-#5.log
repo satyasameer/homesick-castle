@@ -1,0 +1,23 @@
+2019-01-04 10:02:53:015 [INFO ] runner: Found Terraform binary terraform with version 0.11.8
+2019-01-04 10:02:53:263 [INFO ] runner: Found Terraform binary /usr/bin/terraform with version 0.11.8
+2019-01-04 10:02:53:398 [INFO ] file-system-watcher: Crawling workspace for terraform files...
+2019-01-04 10:02:54:034 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/vm/terraform/aws/output.tf
+2019-01-04 10:02:54:163 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/vm/terraform/aws/test/test.tf
+2019-01-04 10:02:54:465 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/vm/terraform/aws/main.tf
+2019-01-04 10:02:54:840 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/vm/terraform/aws/variables.tf
+2019-01-04 10:02:54:864 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-ecr/aws/output.tf
+2019-01-04 10:02:54:895 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-ecr/aws/test/test.tf
+2019-01-04 10:02:54:919 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-ecr/aws/main.tf
+2019-01-04 10:02:54:937 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-ecr/aws/variables.tf
+2019-01-04 10:02:54:963 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/ami-copy/aws/output.tf
+2019-01-04 10:02:55:030 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/ami-copy/aws/test/test.tf
+2019-01-04 10:02:55:107 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/ami-copy/aws/main.tf
+2019-01-04 10:02:55:128 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/ami-copy/aws/variables.tf
+2019-01-04 10:02:55:147 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-user/aws/output.tf
+2019-01-04 10:02:55:158 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-user/aws/test/test.tf
+2019-01-04 10:02:55:203 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-user/aws/main.tf
+2019-01-04 10:02:55:242 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-user/aws/variables.tf
+2019-01-04 10:02:55:283 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-ecr-group/aws/output.tf
+2019-01-04 10:02:55:330 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-ecr-group/aws/test/test.tf
+2019-01-04 10:02:55:366 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-ecr-group/aws/main.tf
+2019-01-04 10:02:55:426 [INFO ] file-system-watcher: Indexed file:///home/sameer/projects/cv-infrastructure/common/terraform-modules/create-iam-ecr-group/aws/variables.tf

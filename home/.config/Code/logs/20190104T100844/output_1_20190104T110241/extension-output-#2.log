@@ -1,0 +1,11 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module snapshot_ebs_disks
+3,0,error,E0401:Unable to import 'boto3'
+8,0,error,E0401:Unable to import 'json_log_formatter'
+13,0,error,E0401:Unable to import 'pytz'
+233,22,warning,W0612:Unused variable 'e'
+
+------------------------------------------------------------------
+Your code has been rated at 8.72/10 (previous run: 8.72/10, +0.00)
+

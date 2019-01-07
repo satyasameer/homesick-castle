@@ -1,0 +1,66 @@
+[2019-01-04 10:08:48.586] [exthost1] [info] extension host started
+[2019-01-04 10:08:48.690] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-04 10:08:48.690] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2019-01-04 10:08:48.707] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-04 10:08:48.707] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2019-01-04 10:08:48.828] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-04 10:08:48.828] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2019-01-04 10:08:49.477] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-04 10:08:49.477] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2019-01-04 10:08:49.506] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-01-04 10:08:49.506] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2019-01-04 10:08:50.257] [exthost1] [info] ExtensionService#_doActivateExtension mauve.terraform {"startup":true,"activationEvent":"workspaceContains:**/*.tf"}
+[2019-01-04 10:08:50.257] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/mauve.terraform-1.3.7/out/src/extension
+[2019-01-04 10:08:51.788] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.azure-account {"startup":true,"activationEvent":"workspaceContains:**/*.tf"}
+[2019-01-04 10:08:51.788] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/ms-vscode.azure-account-0.4.3/out/src/extension
+[2019-01-04 10:08:53.046] [exthost1] [info] eager extensions activated
+[2019-01-04 10:08:53.106] [exthost1] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-azureterraform {"startup":true,"activationEvent":"workspaceContains:**/*.tf"}
+[2019-01-04 10:08:53.106] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/ms-azuretools.vscode-azureterraform-0.2.2/out/extension
+[2019-01-04 11:02:33.445] [exthost1] [info] extension host started
+[2019-01-04 11:02:33.549] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:33.557] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2019-01-04 11:02:33.599] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:33.602] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2019-01-04 11:02:33.738] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:33.738] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2019-01-04 11:02:33.979] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:33.979] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2019-01-04 11:02:33.991] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:33.991] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2019-01-04 11:02:34.004] [exthost1] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer {"startup":false,"activationEvent":"onLanguage:plaintext"}
+[2019-01-04 11:02:34.004] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/grapecity.gc-excelviewer-2.1.26/out/src/extension
+[2019-01-04 11:02:35.434] [exthost1] [info] eager extensions activated
+[2019-01-04 11:02:44.039] [exthost1] [info] extension host started
+[2019-01-04 11:02:44.091] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:44.091] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2019-01-04 11:02:44.109] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:44.114] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2019-01-04 11:02:44.263] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:44.278] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2019-01-04 11:02:44.813] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:44.813] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2019-01-04 11:02:44.835] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-01-04 11:02:44.835] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2019-01-04 11:02:44.857] [exthost1] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-04 11:02:44.857] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/python/out/pythonMain
+[2019-01-04 11:02:44.867] [exthost1] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-04 11:02:44.867] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension
+[2019-01-04 11:02:45.611] [exthost1] [info] ExtensionService#_doActivateExtension tht13.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-04 11:02:45.611] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/tht13.python-0.2.3/out/client/src/pythonMain
+[2019-01-04 11:02:47.411] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.azure-account {"startup":true,"activationEvent":"workspaceContains:**/*.tf"}
+[2019-01-04 11:02:47.420] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/ms-vscode.azure-account-0.4.3/out/src/extension
+[2019-01-04 11:02:48.623] [exthost1] [info] ExtensionService#_doActivateExtension mauve.terraform {"startup":true,"activationEvent":"workspaceContains:**/*.tf"}
+[2019-01-04 11:02:48.623] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/mauve.terraform-1.3.7/out/src/extension
+[2019-01-04 11:02:51.193] [exthost1] [info] eager extensions activated
+[2019-01-04 11:02:51.323] [exthost1] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-azureterraform {"startup":true,"activationEvent":"workspaceContains:**/*.tf"}
+[2019-01-04 11:02:51.323] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/ms-azuretools.vscode-azureterraform-0.2.2/out/extension
+[2019-01-04 11:34:37.346] [exthost1] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer {"startup":false,"activationEvent":"onLanguage:plaintext"}
+[2019-01-04 11:34:37.346] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/grapecity.gc-excelviewer-2.1.26/out/src/extension
+[2019-01-04 11:36:11.170] [exthost1] [info] ExtensionService#_doActivateExtension vscoss.vscode-ansible {"startup":false,"activationEvent":"onLanguage:yaml"}
+[2019-01-04 11:36:11.170] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/vscoss.vscode-ansible-0.5.2/out/extension
+[2019-01-04 11:36:13.546] [exthost1] [info] ExtensionService#_doActivateExtension PeterJausovec.vscode-docker {"startup":false,"activationEvent":"onLanguage:yaml"}
+[2019-01-04 11:36:13.546] [exthost1] [info] ExtensionService#loadCommonJSModule /home/sameer/.vscode/extensions/peterjausovec.vscode-docker-0.4.0/out/dockerExtension
+[2019-01-04 14:33:36.612] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-01-04 14:33:36.612] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2019-01-04 14:33:36.662] [exthost1] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-01-04 14:33:36.664] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/out/extension

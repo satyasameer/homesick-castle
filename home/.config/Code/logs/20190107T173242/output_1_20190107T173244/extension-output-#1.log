@@ -1,0 +1,438 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/pre-setup/components/pre-setup
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/terraform-host/components/terraform-host
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/common
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/apcera/components/apcera
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/internal-dns/components/bind-dns
+> git status -z -u
+> git rev-parse --show-toplevel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/ldap/components/test/389ds
+> git status -z -u
+> git rev-parse --show-toplevel
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/ldap/components/access/389ds
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/gocd/components/gocd-vcc
+> git status -z -u
+> git rev-parse --show-toplevel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/sso/components/access/postgres
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/vcc-cn/sso/components/access/keycloak
+> git status -z -u
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/pre-setup/components/pre-setup
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/terraform-host/components/terraform-host
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/common
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/apcera/components/apcera
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/internal-dns/components/bind-dns
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/ldap/components/test/389ds
+> git status -z -u
+> git rev-parse --show-toplevel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/ldap/components/access/389ds
+> git status -z -u
+> git rev-parse --show-toplevel
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/gocd/components/gocd-vcc
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/sso/components/access/postgres
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git config --get commit.template
+Open repository: /home/sameer/test-terraform/vcc-cn-prod-tf-host/projects/vcc-cn/sso/components/access/keycloak
+> git status -z -u
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :secrets/access/ssh_keys/.gitkeep
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :secrets/qa/ssh_keys/Apcera_keys/apcera-cn-qa.pem
+> git ls-files --stage -- secrets/qa/ssh_keys/Apcera_keys/
+> git show :secrets/qa/ssh_keys/apcera-cn-qa.pem
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :secrets/qa/ssh_keys/kibana/staging-cvcuser-r2x.pem
+> git ls-files --stage -- secrets/qa/ssh_keys/kibana/
+> git show :secrets/qa/ssh_keys/staging-cvcuser-r2x.pem
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :secrets/qa/ssh_keys/splunk/splunk_qa.pem
+> git ls-files --stage -- secrets/qa/ssh_keys/splunk/
+> git show :secrets/qa/ssh_keys/splunk_qa.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :secrets/qa/ssh_keys/terraform-host/terraform-host.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/terraform-host/
+> git show :secrets/qa/ssh_keys/terraform-host.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :secrets/qa/ssh_keys/bind-dns/bind-dns.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/bind-dns/
+> git show :secrets/qa/ssh_keys/bind-dns.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :secrets/qa/ssh_keys/apcera-cn-qa.pem
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git show :secrets/qa/ssh_keys/bind-dns.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git show :secrets/qa/ssh_keys/staging-cvcuser-r2x.pem
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git show :secrets/qa/ssh_keys/bind-dns.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git show :secrets/qa/ssh_keys/splunk_qa.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git show :secrets/qa/ssh_keys/bind-dns.pub
+> git ls-files --stage -- secrets/qa/ssh_keys/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :apcera/terraform/test/terraform.tfvars
+> git show :apcera/terraform/test/test.auto.tfvars
+> git show :apcera/terraform/test/variables.tf
+> git show :apcera/terraform/test/terraform.tfvars
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :apcera/terraform/test/secrets.tfvars
+> git ls-files --stage -- apcera/terraform/test/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :splunk/terraform/prod/main.tf
+> git show :splunk/terraform/prod/output.tf
+> git show :splunk/terraform/prod/provider.tf
+> git show :splunk/terraform/prod/variables.tf
+> git check-ignore -z --stdin
